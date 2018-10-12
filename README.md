@@ -1,1 +1,2 @@
-# buyList-CoreData-
+# buyList-CoreData
+CoreData - SnapKit - UITableView
